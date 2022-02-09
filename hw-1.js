@@ -139,7 +139,7 @@ function parentFolderOf(sourceFileId) {
     }
   }
   if (foundFlag !== 1) {
-    console.log("ERROR: A file with this id couldn't be found!");
+    console.log("ERROR: A file with this id couldn't be found! ");
     return false;
   }
 }

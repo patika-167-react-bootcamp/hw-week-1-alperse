@@ -1,4 +1,4 @@
-let words = ['hello', 'My', 'NAME', 'is', 'aLPeR']
+let words = ['heY', 'My', 'NAME', 'is', 'aLPeR']
 
 
 Array.prototype.includesCi = function(value){
