@@ -21,4 +21,4 @@ Array.prototype.includesCi = function(value){
     }
 }
 
-console.log(words.includesCi('nAmE'))
+console.log(words.includesCi('nAme'))
